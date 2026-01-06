@@ -1,5 +1,5 @@
 # Welcome to my portfolio!
-# Here are some examples of my previous class work and coding projects. (Clustering, Deep Learning needed still)
+# Here are some examples of my previous class work and coding projects. 
 
 # [Predictive Modeling for Retail (Fall 2025)](https://github.com/cwellin31/Predictive_Modeling_For_Retail)
 - Performed analysis on the Desk product, creating a final model with 90% training accuracy and 75% testing accuracy when predicting quantity sold
