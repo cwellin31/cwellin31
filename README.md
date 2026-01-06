@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Welcome to my portfolio!
 # Here are some examples of my previous class work and coding projects. (Clustering, Deep Learning needed still)
 
